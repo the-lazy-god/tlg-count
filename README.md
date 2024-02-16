@@ -1,8 +1,6 @@
 # TLG Count
 Change numbers with native Webflow interactions.
 
-[See a demo here](https://thelazygod.com/snippets/count)
-
 ## 🔗 Snippet
 
 Copy the `<script>` below and paste it in the `<head>` or before `</body>` tag in your project on the pages where you need it. It also works with any newer version of three.js.
