@@ -91,13 +91,13 @@ Especially great with monospaced fonts.
 
 ## 📦 Attributes overview
 
-| Attribute                          | Description                                                                       | Values                              | Default          |
-|------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------|------------------|
-| `tlg-count`                        | Identifies the text or span elements for the number. **Required**                 | number-{index}                      |                  |
-| `tlg-count-decimals`               | Marks an image to be used in the kaleidoscope pattern.                            | {number}                            | 0                |
-| `tlg-count-decimal-separator`      | Sets the animation mode of the kaleidoscope.                                      | {character or space}                | "."              |
-| `tlg-count-thousand-separator`     | Adjusts the aspect ratio of the image texture.                                    | {character or space}                | None             |
-| `tlg-count-digits`                 | Sets the scale factor of the kaleidoscope pattern.                                | {Number}                            | 1                |
+| Attribute                          | Description                                                                         | Values                              | Default          |
+|------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|------------------|
+| `tlg-count`                        | Identifies the text or span elements for the number. **Required**                   | number-{index}                      |                  |
+| `tlg-count-decimals`               | Sets the number of decimals.                                                        | {number}                            | 0                |
+| `tlg-count-decimal-separator`      | Defines the decimal separator.                                                      | {character or space}                | "."              |
+| `tlg-count-thousand-separator`     | Defines the decimal separator.                                                      | {character or space}                | None             |
+| `tlg-count-digits`                 | Sets the minimum number of digits. Leading zeros will be added to meet this number. | {Number}                            | 1                |
 
 ## 📦 Variables overview
 
