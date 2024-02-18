@@ -3,7 +3,7 @@ Change numbers with native Webflow interactions.
 
 ## 🔗 Snippet
 
-Copy the `<script>` below and paste it in the `<head>` or before `</body>` tag in your project on the pages where you need it. It also works with any newer version of three.js.
+Copy the `<script>` below and paste it in the `<head>` or before `</body>` tag in your project on the pages where you need it.
 
 ```html
 <!-- Snippets by The Lazy God • Count -->
