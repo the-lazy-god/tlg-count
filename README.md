@@ -32,7 +32,7 @@ Create a variable of type size for each unique number. This will be used in the 
 
 ### 3: Create native Webflow interactions
 
-Create any Webflow interaction where you animate the variables you created above. The value of the variable going from 0 to 100 will correspond to video progress going from 0 to 100% completion.
+Create any Webflow interaction where you animate the variables you created above. The numerical value of the variable is what will be shown in the text element chosen in step 1.
 
 ## ⚡️ Optional add-ons
 
